@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+.resume {
+    width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+    margin: 0;
+    color: #2a7f62; /* Primary color for the name */
+}
+
+.header p {
+    color: #888;
+    margin-bottom: 20px;
+}
+
+.section {
+    margin-top: 20px;
+    background-color: #f9f9f9; /* Light background for sections */
+}
+
+.section h2 {
+    color: #2a7f62; /* Primary color for section headings */
+    border-bottom: 2px solid #e4e4e4;
+    padding-bottom: 6px;
+}
+
+.section h3 {
+    margin-top: 10px;
+    color: #333;
+}
+
+.contact-info p, .section p, .section ul {
+    margin: 10px 0;
+}
+
+.section ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+.resume {
+    width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+    margin: 0;
+    color: #2a7f62; /* Primary color for the name */
+}
+
+.header p {
+    color: #888;
+    margin-bottom: 20px;
+}
+
+.section {
+    margin-top: 20px;
+    background-color: #f9f9f9; /* Light background for sections */
+}
+
+.section h2 {
+    color: #2a7f62; /* Primary color for section headings */
+    border-bottom: 2px solid #e4e4e4;
+    padding-bottom: 6px;
+}
+
+.section h3 {
+    margin-top: 10px;
+    color: #333;
+}
+
+.contact-info p, .section p, .section ul {
+    margin: 10px 0;
+}
+
+.section ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+/* ... existing styles ... */
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+    float: left;
+}
+
+.header {
+    overflow: hidden; /* Clear float */
+}
+
+/* ... rest of your styles ... */
